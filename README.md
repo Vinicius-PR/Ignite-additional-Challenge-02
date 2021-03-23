@@ -36,7 +36,7 @@ Start the aplication and enjoy: \o/
 > yarn start
 
 # Conclusion
-It was not a easy task but with resilience I did it. Now with functions and typescript, the code is easier to maintain and to understand.
+It was not an easy task but with resilience I did it. Now with functions and typescript, the code is easier to maintain and to understand.
 
 This is the solution of the Aditional Challenge of Chapter 2 - Ignite - React. Bootcamp Administered by [Rocketseat](https://rocketseat.com.br/ "Rocketseat")
 
