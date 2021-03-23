@@ -5,7 +5,7 @@ import {
   useCallback,
 } from 'react';
 
-import { IconType } from '../../../node_modules/react-icons/lib/cjs/iconBase';
+import { IconType } from 'react-icons';
 
 import { useField } from '@unform/core';
 import { Container } from './styles';
